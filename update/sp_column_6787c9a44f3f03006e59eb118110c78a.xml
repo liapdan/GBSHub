@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <size>3</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">6f87c9a44f3f03006e59eb118110c788</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 06:38:53</sys_created_on>
+        <sys_id>6787c9a44f3f03006e59eb118110c78a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="GBSHub" source="x_164798_gbshub">d5119bc40f33030021c33b8ce1050e3b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GBSHub">d5119bc40f33030021c33b8ce1050e3b</sys_scope>
+        <sys_update_name>sp_column_6787c9a44f3f03006e59eb118110c78a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 06:38:53</sys_updated_on>
+    </sp_column>
+</record_update>
