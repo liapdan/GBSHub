@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>gbshub_index</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-06 07:17:44</sys_created_on>
+        <sys_id>fda643624fc01300e59e8020a310c762</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gbshub_index</sys_name>
+        <sys_package display_value="GBSHub" source="x_164798_gbshub">d5119bc40f33030021c33b8ce1050e3b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GBSHub">d5119bc40f33030021c33b8ce1050e3b</sys_scope>
+        <sys_update_name>sp_page_fda643624fc01300e59e8020a310c762</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-06 07:17:44</sys_updated_on>
+        <title>gbshub index</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=fda643624fc01300e59e8020a310c762"/>
+</record_update>

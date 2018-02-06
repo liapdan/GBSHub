@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Level3">e4a636a64f801300e59e8020a310c75a</cat_item>
+        <cat_item display_value="Case one">e4a636a64f801300e59e8020a310c75a</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

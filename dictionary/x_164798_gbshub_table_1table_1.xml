@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Table_1" max_length="40" name="x_164798_gbshub_table_1table_1" type="collection">
+        <element label="Number" max_length="125" name="number" type="string"/>
         <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
     </element>
 </database>
