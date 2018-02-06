@@ -25,7 +25,7 @@ $text-muted: #646567;
         <default>false</default>
         <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
         <icon>108497880f33030021c33b8ce1050ec7.iix?t=m</icon>
-        <kb_knowledge_base display_value="GbsHub Knowledge">a87885a44f3f03006e59eb118110c732</kb_knowledge_base>
+        <kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
         <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
         <login_page/>
         <logo>5b749f080f33030021c33b8ce1050e08.iix?t=m</logo>
@@ -41,14 +41,14 @@ $text-muted: #646567;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-17 03:38:14</sys_created_on>
         <sys_id>e9f35b880f33030021c33b8ce1050e1f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>GBSHub Service Cental</sys_name>
         <sys_package display_value="GBSHub" source="x_164798_gbshub">d5119bc40f33030021c33b8ce1050e3b</sys_package>
         <sys_policy/>
         <sys_scope display_value="GBSHub">d5119bc40f33030021c33b8ce1050e3b</sys_scope>
         <sys_update_name>sp_portal_e9f35b880f33030021c33b8ce1050e1f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-19 06:31:28</sys_updated_on>
+        <sys_updated_on>2018-02-06 03:52:08</sys_updated_on>
         <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
         <title>GBSHub Service Cental</title>
         <url_suffix>gbshub</url_suffix>
