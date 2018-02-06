@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Level3">e4a636a64f801300e59e8020a310c75a</sc_cat_item>
+        <sc_catalog display_value="GBSHub Service Catalog">26c2fea24f801300e59e8020a310c7fc</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-06 06:07:45</sys_created_on>
+        <sys_id>a0a636a64f801300e59e8020a310c75f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GBSHub Service Catalog.Level3</sys_name>
+        <sys_package display_value="GBSHub" source="x_164798_gbshub">d5119bc40f33030021c33b8ce1050e3b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GBSHub">d5119bc40f33030021c33b8ce1050e3b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a0a636a64f801300e59e8020a310c75f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-06 06:07:45</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
