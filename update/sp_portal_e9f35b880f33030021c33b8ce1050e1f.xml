@@ -41,17 +41,17 @@ $text-muted: #646567;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-17 03:38:14</sys_created_on>
         <sys_id>e9f35b880f33030021c33b8ce1050e1f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>GBSHub Service Cental</sys_name>
         <sys_package display_value="GBSHub" source="x_164798_gbshub">d5119bc40f33030021c33b8ce1050e3b</sys_package>
         <sys_policy/>
         <sys_scope display_value="GBSHub">d5119bc40f33030021c33b8ce1050e3b</sys_scope>
         <sys_update_name>sp_portal_e9f35b880f33030021c33b8ce1050e1f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-06 07:50:29</sys_updated_on>
+        <sys_updated_on>2018-02-06 08:41:05</sys_updated_on>
         <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
         <title>GBSHub Service Cental</title>
-        <url_suffix>gbshub</url_suffix>
+        <url_suffix>gbshub_internal</url_suffix>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=e9f35b880f33030021c33b8ce1050e1f"/>
     <sys_attachment action="INSERT_OR_UPDATE">
